@@ -392,9 +392,6 @@ defaults write com.apple.finder FXPreferredViewStyle -string "Nlsv"
 # Minimize windows into their application’s icon
 defaults write com.apple.dock minimize-to-application -bool true
 
-# Automatically hide and show the Dock
-defaults write com.apple.dock autohide -bool true
-
 # Don’t show recent applications in Dock
 #    defaults write com.apple.dock show-recents -bool false
 
